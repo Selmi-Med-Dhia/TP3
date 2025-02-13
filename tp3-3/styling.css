@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+#form{
+    width:50%;
+    margin-left: 10%;
+}
+#spawn{
+    width:40%;
+}
+.task{
+    font-size: 20;
+}
